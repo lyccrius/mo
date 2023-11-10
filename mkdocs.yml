@@ -64,6 +64,10 @@ nav:
     - geometry/index.md
   - 代数:
     - algebra/index.md
+    - 函数与函数方程: algebra/function-and-functional-equation.md
+    - 数列与归纳法: algebra/sequence-and-induction.md
+    - 不等式与最值: algebra/inequation-and-extremum.md
+    - 复数与多项式: algebra/complex-number-and-polynomial.md
   - 数论:
     - number-theory/index.md
   - 组合:
