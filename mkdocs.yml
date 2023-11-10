@@ -60,3 +60,11 @@ nav:
   - 首页:
     - index.md
     - 书单: list.md
+  - 几何:
+    - geometry/index.md
+  - 代数:
+    - algebra/index.md
+  - 数论:
+    - number-theory/index.md
+  - 组合:
+    - combinatorics/index.md
